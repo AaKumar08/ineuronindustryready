@@ -79,10 +79,12 @@
 #### Create a hello world flask application. Create a Dockerfile for your flask hello world application. Build Docker image using Docker file. Run docker image build in previous step. Push your Docker image to Docker Hub.
 ![](images/docker_file_1.PNG)
 ![](images/docker_push.PNG)
+![](images/hello_world_in_hub.PNG)
 
 ## Assignment 4
 #### Automate Assignment below task using github action.
 ####
 #### 1. Build Docker Image
 #### 2. Push Docker Image to Docker hub.
+#### Tutorial - https://itsmetommy.com/2021/07/05/push-to-docker-hub-using-github-actions/
 
