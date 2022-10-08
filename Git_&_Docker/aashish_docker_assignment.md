@@ -22,3 +22,14 @@
 ## Yeah buddy!! We have implemented 4 commands. Let's keep up the good work.
 !['Work is fun'](images/kungu_panda_1st.jpg)
 
+#### 5. docker ps
+#### To list all the docker containers which are in running state in your local machine.
+!['List of running containers'](images/list_all_running_containers.PNG)
+
+#### 6. docker ps --all
+#### To list all the docker containers which are in running state as well as those are in stopped state in your local machine.
+!['List all containers including the stopped containers'](images/list_all_conatiners.PNG)
+
+
+
+
