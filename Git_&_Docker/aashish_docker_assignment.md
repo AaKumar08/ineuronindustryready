@@ -3,4 +3,4 @@
 
 #### 1. docker --version 
 #### Explaination - It shows the version of docker version installed in your local
-![1st command](./docker_1.png)
+!['docker version command '](docker_1.PNG)
