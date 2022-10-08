@@ -37,4 +37,37 @@
 #### Wow!! this is awesome. Like it is easy to start, run, stop and see the containers....
 !['Wow'](images/panda_2.jpg)
 
+#### 8. docker stop
+#### To restart a stopped container
+!['Stop'](images/stop.PNG)
+
+#### 9. docker rename
+#### To rename a container
+![](images/rename.PNG)
+
+#### 10. docker logs
+#### To fetch the logs from a specified container
+![](images/logs.PNG)
+
+#### 11. docker rm
+#### To remove container, first stop it and then remove it.
+![](images/remove_container.PNG)
+
+#### 12. docker rmi
+#### Remove a image
+![](images/remove_image.PNG)
+
+#### 13. docker command --help 
+#### To get help
+![](images/to_get_help.PNG)
+
+#### 14. To run commands inside the container
+![](images/exec.png)
+
+#### 15. docker kill container_id
+#### To kill the container immediately
+![](images/kill.PNG)
+
+#### Yayy!!!! Assignment 1 Done...
+![](images/thanku.jpg)
 
