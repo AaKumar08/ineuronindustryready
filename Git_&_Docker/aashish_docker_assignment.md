@@ -15,3 +15,10 @@
 #### To pull (aka download) the docker image from docker hub to your local machine.
 !['pull command'](./images/pull.PNG)
 
+#### 4. docker images
+#### To list all the docker images present in your local machine.
+!['List images'](images/list_all_images.PNG)
+
+## Yeah buddy!! We have implemented 4 commands. Let's keep up the good work.
+!['Work is fun'](images/kungu_panda_1st.jpg)
+
