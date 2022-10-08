@@ -30,6 +30,11 @@
 #### To list all the docker containers which are in running state as well as those are in stopped state in your local machine.
 !['List all containers including the stopped containers'](images/list_all_conatiners.PNG)
 
+#### 7. docker stop
+#### To stop a running container
+!['To stop a running container'](images/stop.PNG)
 
+#### Wow!! this is awesome. Like it is easy to start, run, stop and see the containers....
+!['Wow'](images/panda_2.jpg)
 
 
